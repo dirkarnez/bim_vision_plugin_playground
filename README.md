@@ -1,5 +1,7 @@
 bim_vision_plugin_playground
 ============================
+import from https://download-datacomp.com.pl/bimvision/bim_vision_sdk.zip
+
 ### TODOs
 - [ ] CMake support
 
