@@ -4,6 +4,7 @@ import from https://download-datacomp.com.pl/bimvision/bim_vision_sdk.zip
 
 ### TODOs
 - [ ] CMake support
+- [ ] CICD
 
 ### Use on
 - [dirkarnez/bimvision-portable](https://github.com/dirkarnez/bimvision-portable)
